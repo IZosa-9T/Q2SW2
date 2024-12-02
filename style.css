@@ -1,0 +1,59 @@
+body {
+	background-color: #6E6053;
+	text-align: center;
+}
+
+
+h3 {
+	background-color: rgb(170, 160, 141, 0.5);
+	padding: 10px;
+	border-radius: 10px;
+	transition: background-color 0.3s ease;
+}
+
+		h3:hover {
+			background-color: rgb(170, 160, 141, 0.8);
+		}
+
+img {
+	border-radius: 10px;
+	width: 100%;
+}
+
+
+.col-md-6 {
+	padding-left: 40px;
+}
+
+.container {
+	background-color: #E8EBEA;
+	padding: 30px;
+	display: flex;
+	align-items: flex-start;
+}
+
+.checkbox {
+	text-align: left;
+}
+
+.header {
+	background-color: rgb(232, 235, 234, 0.5);
+	justify-content: center;
+	padding: 10px;
+	border-radius: 10px;
+	transition: background-color 0.3s ease;
+}
+		
+		.header:hover {
+			background-color: rgb(232, 235, 234, 0.9);
+		}
+
+.btn {
+	background-color: rgb(170, 160, 141, 0.5);
+	transition: background-color 0.3s ease;
+	width: 100%;
+}
+
+		.btn:hover {
+			background-color: rgb(170, 160, 141);
+		}
